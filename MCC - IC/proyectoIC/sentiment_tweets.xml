@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tweets>
+<tweet id='456544890654973952'><sentiment polarity='N' contador='1'>Messi</sentiment></tweet>
+<tweet id='456544890713673731'><sentiment polarity='P' contador='1'>real Madrid</sentiment><sentiment polarity='NEU' contador='2'>copa del rey</sentiment></tweet>
+<tweet id='456544890877276160'><sentiment polarity='P' contador='1'>Jonathan Dos Santos</sentiment></tweet>
+<tweet id='456544891326062594'><sentiment polarity='P' contador='1'>HALA MADRID</sentiment></tweet>
+<tweet id='456544894345961474'><sentiment polarity='NEU' contador='1'>@Madrid</sentiment><sentiment polarity='N' contador='2'>@Barcelona</sentiment></tweet>
+<tweet id='456544894354333697'><sentiment polarity='N' contador='1'>Sergio Ramos</sentiment><sentiment polarity='NEU' contador='2'>#FinalCopaRelRey</sentiment></tweet>
+<tweet id='456544894434045952'><sentiment polarity='N' contador='1'>Bale</sentiment></tweet>
+<tweet id='456544894492753920'><sentiment polarity='NEU' contador='1'>@Cristiano</sentiment></tweet>
+<tweet id='456544894501146625'><sentiment polarity='P' contador='1'>ISCO</sentiment><sentiment polarity='P' contador='2'>partidazo</sentiment><sentiment polarity='P' contador='3'>El mejor partido</sentiment><sentiment polarity='NEU' contador='4'>Real Madrid</sentiment></tweet>
+<tweet id='456544894517923840'><sentiment polarity='N' contador='1'>Neymar</sentiment><sentiment polarity='P' contador='2'>Bale</sentiment></tweet>
+<tweet id='456544894572445696'><sentiment polarity='NEU' contador='1'>Cristiano</sentiment><sentiment polarity='NEU' contador='2'>Messi</sentiment></tweet>
+<tweet id='456544894681493505'><sentiment polarity='N' contador='1'>messi</sentiment></tweet>
+<tweet id='456544894706671616'><sentiment polarity='NEU' contador='1'>Neymar</sentiment></tweet>
+<tweet id='456544894715043841'><sentiment polarity='N' contador='1'>Tata</sentiment></tweet>
+<tweet id='456544894736023552'><sentiment polarity='P' contador='1'>Real Madrid</sentiment><sentiment polarity='NEU' contador='2'>Cristiano</sentiment></tweet>
+<tweet id='456544894736035841'><sentiment polarity='NEU' contador='1'>Cr7</sentiment></tweet>
+<tweet id='456544894782144512'><sentiment polarity='P' contador='1'>Messi</sentiment><sentiment polarity='NEU' contador='2'>partido</sentiment></tweet>
+<tweet id='456544992119361536'><sentiment polarity='P' contador='1'>Bale</sentiment></tweet>
+<tweet id='456544994996678656'><sentiment polarity='NEU' contador='1'>Foto</sentiment><sentiment polarity='N' contador='2'>Pepe</sentiment><sentiment polarity='NEU' contador='3'>Neymar</sentiment><sentiment polarity='NEU' contador='4'>Copa</sentiment><sentiment polarity='N' contador='5'>Pepe</sentiment><sentiment polarity='N' contador='6'>Neymar</sentiment></tweet>
+<tweet id='456544995005054976'><sentiment polarity='N' contador='1'>Pinto</sentiment></tweet>
+<tweet id='456544995202183168'><sentiment polarity='P' contador='1'>Alves</sentiment></tweet>
+<tweet id='456544898598965248'><sentiment polarity='N' contador='1'>messi</sentiment></tweet>
+<tweet id='456544898636730368'><sentiment polarity='N' contador='1'>Barcelona</sentiment></tweet>
+</tweets>

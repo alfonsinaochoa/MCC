@@ -1,0 +1,4 @@
+u"RT @alfonsina_yaos ñ así- @ #happyfuncoding: this is a typical Twitter tweet :-)"
+u"HTML entities &amp; other Web oddities can be an &aacute;cute <em class='grumpy'>pain</em> >:("
+u"@JuanCadenaRico: Abuelo, ¿qué es ganar?"
+u"It's perhaps noteworthy that phone numbers like +1 (800) 123-4567, (800) 123-4567, and 123-4567 are treated as words despite their whitespace."
